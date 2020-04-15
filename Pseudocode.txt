@@ -1,0 +1,8 @@
+1. Ask for date input in mm/dd/yyyy format.Store as String
+2. Pull inputs as characters and bring the related ones together as a string.
+3. Assign correct months inputed to month written as word.
+4. If statements to assign correct month and else statement to cover out of bounds entries. 
+5. Convert day and year to integer and check for out of bounds errors.
+6. display desired message. In this case <Month> <day>, <year>.
+  
+
